@@ -8,7 +8,3 @@
 - 📫 How to reach us **soas@e-soas.cz**
 
 - ⚡ Fun fact **The Private Business Academy in Sokolov not only provides modern education but also supports individual student talents—some graduates have succeeded in tech startups 💻, while others have built careers in professional sports ⚽!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
